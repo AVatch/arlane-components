@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 87073598da913447aa5a923da53cdb38
+timeCreated: 1490227514
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Slabo 13px
+  fontNames:
+  - Slabo 13px
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
